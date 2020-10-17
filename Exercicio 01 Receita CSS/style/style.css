@@ -1,0 +1,54 @@
+html {
+    font-family: 'Overpass', sans-serif;
+}
+
+h2 {
+    text-indent: 5px;
+    color: #ffb300;
+}
+
+img {
+    width: 883px;
+    height: 374px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 89px;
+    vertical-align: 79px;
+    color: #ffb300;
+}
+.autor {
+    text-align: right;
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.bebida {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+
+hr {
+    border-top: 5px solid gray;
+}
+
+ul {
+    font-size:21px;
+    font-weight: 600;
+    line-height: 1.61em;
+}
+
+ol > li {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61em;
+}
+
+.ini{
+    font-size: 21px;
+    font-weight:900;
+}

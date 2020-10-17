@@ -1,0 +1,15 @@
+section {
+    padding-left: 55px;
+    font-size: 30px;
+}
+
+p {
+    width: 50%;
+    text-align: justify;
+}
+
+p {
+    text-decoration: purple;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+}

@@ -1,0 +1,13 @@
+/*Tipos de fontes gerlamente usados*/
+/* :root {
+    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 55px;
+} */
+
+/* CDN Rede de distribuição de conteúdo, incluir fonte a partie do google */
+:root {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}

@@ -1,0 +1,28 @@
+input:checked {
+    transform: scale(2);
+}
+
+input:disabled {
+    opacity: .1;
+}
+p:empty {
+    height: 21px;
+    background-color: brown;
+}
+
+section p:first-of-type {
+    color: chartreuse;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li::before {
+    content: "~";
+    margin-right: 13px;
+}
+
+li::after {
+    content: "*";
+}
